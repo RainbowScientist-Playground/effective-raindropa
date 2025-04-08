@@ -20,11 +20,11 @@ require (
 	github.com/jackc/pgx/v4 v4.18.3
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/prometheus/client_model v0.6.1
-	github.com/prometheus/common v0.60.1
+	github.com/prometheus/common v0.63.0
 	github.com/rubenv/sql-migrate v1.7.0
 	github.com/spf13/afero v1.11.0
 	github.com/spf13/viper v1.19.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/umbracle/ethgo v0.1.3
 	github.com/urfave/cli/v2 v2.27.5
 	go.uber.org/zap v1.27.0
@@ -32,7 +32,7 @@ require (
 	golang.org/x/net v0.39.0
 	golang.org/x/sync v0.13.0
 	google.golang.org/grpc v1.67.1
-	google.golang.org/protobuf v1.35.2
+	google.golang.org/protobuf v1.36.5
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 )
