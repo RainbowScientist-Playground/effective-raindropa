@@ -1,6 +1,7 @@
 module github.com/0xPolygonHermez/zkevm-node
 
-go 1.21
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -24,7 +25,7 @@ require (
 	github.com/rubenv/sql-migrate v1.7.0
 	github.com/spf13/afero v1.11.0
 	github.com/spf13/viper v1.19.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/umbracle/ethgo v0.1.3
 	github.com/urfave/cli/v2 v2.27.5
 	go.uber.org/zap v1.27.0
